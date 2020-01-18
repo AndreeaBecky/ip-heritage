@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434531287432",
+    "firebase_url": "https://scanheritage-3883f.firebaseio.com",
+    "project_id": "scanheritage-3883f",
+    "storage_bucket": "scanheritage-3883f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434531287432:android:c50ac2a2b53312f080fa3d",
+        "android_client_info": {
+          "package_name": "com.example.scanheritage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434531287432-v83nbg8gr6spfnjg3s5bhh3masrivhao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scanheritage",
+            "certificate_hash": "06914ed3088d8752e7d35072b6cac78cc917f163"
+          }
+        },
+        {
+          "client_id": "434531287432-blb8v938ec8eb71s2r2svhah233fbfjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcyhHlrAn82OLmvy5KCPoIcZsOAO9Xt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434531287432-blb8v938ec8eb71s2r2svhah233fbfjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
